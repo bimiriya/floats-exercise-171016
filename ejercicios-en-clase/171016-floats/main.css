@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+}
+
+li {
+	float: left;
+	width: 100px;
+	margin: 5px; 
+}
+
+header {
+	border: 2px dotted black;
+	overflow: hidden; to bring back its contents into the div */
+	/*position: fixed;*/
+	padding-bottom: 20px;
+	width: 99.69%;
+	background-color: pink;
+	margin-bottom: 20px;
+}
+
+.img-1 {
+	float: left;
+	margin-right: 1em;
+}
+
+.img-2 {
+	float: right;
+	width: -20%;
+	margin-left: 1em;
+}
+
+div {
+	width: 60%;
+	text-align: justify;
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.content i {
+	color: pink;
+}
+
+.icons i {
+	position: relative;
+	font-size: 98px;
+	text-align: center;
+	color: pink
+}
